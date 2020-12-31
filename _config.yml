@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "MouoM
+title                    : "MouoM"
 title_separator          : "-"
 name                     : &name "Xiangyang Mou"
 description              : &description "personal description"
