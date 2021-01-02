@@ -9,4 +9,4 @@ paperurl: ''
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 
-[Download paper here](https://www.researchgate.net/publication/335204496_The_Rensselaer_Mandarin_Project_-_A_Cognitive_and_Immersive_Language_Learning_Environment)
+[Download paper here](/files/The Rensselaer Mandarin Project — A Cognitive and Immersive Language Learning Environment.pdf)
