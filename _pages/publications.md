@@ -15,6 +15,17 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
+## 2021 ## 
+
+__Narrative Question Answering with Cutting-Edge Open-Domain QA Techniques: A Comprehensive Study__ [<a href='/files/bookqa_tacl.pdf'>PDF</a>] <br>
+<u>Xiangyang Mou*</u>, Chenghao Yang*, Mo Yu*, Bingsheng Yao, Xiaoxiao Guo, Saloni Potdar, Hui Su<br>
+_TACL_ <br>
+
+__Complementary Evidence Identification in Open-Domain Question Answering__ [<a href='/files/complementary_eacl.pdf'>PDF</a>] <br>
+<u>Xiangyang Mou</u>, Mo Yu, Shiyu Chang, Yufei Feng, Li Zhang, Hui Su <br>
+_EACL 2021_ <br>
+
+
 
 ## 2020 ## 
 
