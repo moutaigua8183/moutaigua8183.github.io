@@ -25,7 +25,7 @@ Education
 * Washington University in St. Louis    
   M.S. in Electrical Engineering (2015 - 2016)
 * Rensselaer Polytechnic Institute  
-  Ph.D in Computer System Engineering (2017 - present)
+  Ph.D in Computer System Engineering (2017 - 2022)
 
 
 

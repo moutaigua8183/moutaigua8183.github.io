@@ -15,9 +15,19 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
+
+## 2022 ## 
+
+__TVShowGuess: Character Comprehension in Stories as Speaker Guessing__ [<a href='/files/tvshowguess.pdf'>PDF</a>, <a href='https://github.com/YisiSang/TVSHOWGUESS'>Github</a>] <br>
+Yisi Sang, <u>Xiangyang Mou</u>, Mo Yu, Shunyu Yao, Jing Li, Jeffrey Stanton<br>
+_NAACL 2022_ <br>
+
+
+
+
 ## 2021 ## 
 
-__Narrative Question Answering with Cutting-Edge Open-Domain QA Techniques: A Comprehensive Study__ [<a href='/files/bookqa_tacl.pdf'>PDF</a>] <br>
+__Narrative Question Answering with Cutting-Edge Open-Domain QA Techniques: A Comprehensive Study__ [<a href='/files/bookqa_tacl.pdf'>PDF</a>, <a href='https://github.com/moutaigua8183/BookQA'>Github</a>] <br>
 <u>Xiangyang Mou*</u>, Chenghao Yang\*, Mo Yu\*, Bingsheng Yao, Xiaoxiao Guo, Saloni Potdar, Hui Su<br>
 _TACL_ <br>
 
