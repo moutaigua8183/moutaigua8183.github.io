@@ -18,6 +18,10 @@ author_profile: true
 
 ## 2022 ## 
 
+__A Survey of Machine Narrative Reading Comprehension Assessments__ [<a href='/files/sang_narrative_survey.pdf'>PDF</a>] <br>
+Yisi Sang, <u>Xiangyang Mou</u>, Mo Yu, Jing Li, Jeffrey Stanton<br>
+_IJCAI 2022_ <br>
+
 __TVShowGuess: Character Comprehension in Stories as Speaker Guessing__ [<a href='/files/sang_tvshowguess.pdf'>PDF</a>, <a href='https://github.com/YisiSang/TVSHOWGUESS'>Github</a>] <br>
 Yisi Sang, <u>Xiangyang Mou</u>, Mo Yu, Shunyu Yao, Jing Li, Jeffrey Stanton<br>
 _NAACL 2022_ <br>
