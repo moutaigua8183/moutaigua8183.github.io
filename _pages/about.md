@@ -16,7 +16,7 @@ I acquired my doctorate degree from ECSE department at RPI in 2022. My research 
 Previously I was working on mobile eye gaze tracking with [Prof. Qiang Ji](https://www.ecse.rpi.edu/~qji/) in [Intelligent System Lab(ISL)](https://www.ecse.rpi.edu/~cvrl/). The idea was to use the front camera on mobile devices and deep learning approach to predict and track user's gaze. Starting from Summer, 2018, I started working in [Cognitive and Immersive Systems Lab(CISL)](https://cisl.rpi.edu/) co-advised by [Dr. Hui Su](https://www.linkedin.com/in/huisu/) and actively collaborating with [Dr. Mo Yu](https://sites.google.com/site/moyunlp/) from IBM on question answering systems. My projects mainly include Book QA, Mandarin Project, Spatial Context, Goal-Oriented Dialogue Systems and etc.
 
 
-I will join Meta as a research scientist in June, 2022.
+I joined Meta as a research scientist in June, 2022.
 
 
 

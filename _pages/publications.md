@@ -18,12 +18,16 @@ author_profile: true
 
 ## 2022 ## 
 
+__MBTI personality prediction for fictional characters using movie scripts__ [<a href='/files/sang_mbti.pdf'>PDF</a>] <br>
+Yisi Sang*, <u>Xiangyang Mou*</u>, Mo Yu*, Dakuo Wang, Jing Li, Jeffrey Stanton<br>
+_EMNLP 2022_ <br>
+
 __A Survey of Machine Narrative Reading Comprehension Assessments__ [<a href='/files/sang_narrative_survey.pdf'>PDF</a>] <br>
-Yisi Sang, <u>Xiangyang Mou</u>, Mo Yu, Jing Li, Jeffrey Stanton<br>
+Yisi Sang, <u>Xiangyang Mou</u>, Jing Li, Jeffrey Stanton, Mo Yu<br>
 _IJCAI 2022_ <br>
 
 __TVShowGuess: Character Comprehension in Stories as Speaker Guessing__ [<a href='/files/sang_tvshowguess.pdf'>PDF</a>, <a href='https://github.com/YisiSang/TVSHOWGUESS'>Github</a>] <br>
-Yisi Sang, <u>Xiangyang Mou</u>, Mo Yu, Shunyu Yao, Jing Li, Jeffrey Stanton<br>
+Yisi Sang*, <u>Xiangyang Mou*</u>, Mo Yu*, Shunyu Yao, Jing Li, Jeffrey Stanton<br>
 _NAACL 2022_ <br>
 
 
@@ -55,12 +59,13 @@ __Multimodal Dialogue State Tracking By QA Approach with Data Augmentation__ [<a
 <u>Xiangyang Mou</u>, Brandyn Sigouin, Ian Steenstra, Hui Su  <br>
 _AAAI 2020 DSTC8 Workshop_ <br>
 
-
 __HUMAINE: Human Multi-Agent Immersive Negotiation Competition__ [<a href='/files/rahul_humaine.pdf'>PDF</a>] <br>
 Rahul R Divekar, Hui Su, Jeffrey O Kephart, Maira Gratti DeBayser, Melina Guerra, <u>Xiangyang Mou</u>, Matthew Peveler, Lisha Chen <br>
 _CHI EA 2020_ <br>
 
-
+__A Virtual Mouse Interface for Supporting Multi-user Interactions__ [<a href='/files/peveler_virtual_mouse.pdf'>PDF</a>] <br>
+Matthew Peveler, Jeffrey O Kephart, <u>Xiangyang Mou</u>, Gordon Clement, Hui Su<br>
+_HCII 2020_ <br>
 
 
 
